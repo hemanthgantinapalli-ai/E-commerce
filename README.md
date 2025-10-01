@@ -65,9 +65,8 @@ Open index.html in your browser.
 📌 Author
 👤 Your Name
 
-GitHub: @your-username
+GitHub: @hemanthgantinapalli-ai
 
-LinkedIn: Your Profile
+LinkedIn : https://www.linkedin.com/in/hemanth-gantinapalli-834988330/
 
 yaml
-Copy code
